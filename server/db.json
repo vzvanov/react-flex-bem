@@ -1,0 +1,44 @@
+{
+  "columns": [
+    {
+      "id": 1,
+      "title": "The description for the image",
+      "text": "Pariatur iure ab sunt nesciunt, quibusdam odio iste cumque itaque, ipsa vel exercitationem ullam quos aut nostrum cupiditate fuga quaerat quam animi dolores. Sequi itaque, unde perferendis nemo debitis dolor."
+    },
+    {
+      "id": 2,
+      "title": "The description for the image",
+      "text": "Pariatur iure ab sunt nesciunt, quibusdam odio iste cumque itaque, ipsa vel exercitationem ullam quos aut nostrum cupiditate fuga quaerat quam animi dolores. Sequi itaque, unde perferendis nemo debitis dolor."
+    },
+    {
+      "id": 3,
+      "title": "The description for the image",
+      "text": "Pariatur iure ab sunt nesciunt, quibusdam odio iste cumque itaque, ipsa vel exercitationem ullam quos aut nostrum cupiditate fuga quaerat quam animi dolores. Sequi itaque, unde perferendis nemo debitis dolor."
+    },
+    {
+      "id": 4,
+      "title": "The description for the image",
+      "text": "Pariatur iure ab sunt nesciunt, quibusdam odio iste cumque itaque, ipsa vel exercitationem ullam quos aut nostrum cupiditate fuga quaerat quam animi dolores. Sequi itaque, unde perferendis nemo debitis dolor."
+    }
+  ],
+  "verticals": [
+    {
+      "id": 1,
+      "lebel": "подписке",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint tenetur fugit vel, eligendi illum, placeat quo vero reiciendis consectetur.",
+      "btn": "подписаться"
+    },
+    {
+      "id": 2,
+      "lebel": "лайку",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint tenetur fugit vel, eligendi illum, placeat quo vero reiciendis consectetur.",
+      "btn": "лайк"
+    },
+    {
+      "id": 3,
+      "lebel": "комментарию",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint tenetur fugit vel, eligendi illum, placeat quo vero reiciendis consectetur.",
+      "btn": "комментировать"
+    }
+  ]
+}
